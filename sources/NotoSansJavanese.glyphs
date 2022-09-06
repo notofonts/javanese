@@ -1,8 +1,5 @@
 {
 .appVersion = "3109";
-DisplayStrings = (
-"/ya.pas"
-);
 classes = (
 {
 code = "cakra.ns ka.pas_cakra.ns qa.pas_cakra.ns ta.pas_cakra.ns da.pas_cakra.ns la.pas_cakra.ns";
@@ -29,7 +26,7 @@ code = "u.ns u.ns.pas uu.ns uu.ns.pas keret.ns keret.ns.alt ka.pas_cakra qa.pas_
 name = markAttachmentSet14;
 },
 {
-code = "aikara.pas bha.pas ca.pas cha.pas da.pas dda.pas ddha.pas ekara.pas ha.pas iikara.pas ikara.pas ikawi.pas ja.pas jha.pas jnya.pas ka.pas la.pas ma.pas na.pas ngalelet.pas ngaleletras.pas nya.pas okara.pas pa.pas pacerek.pas pha.pas qa.pas sa.pas ssa.pas ta.pas tha.pas tta.pas ttha.pas ukara.pas wa.pas";
+code = "aikara.pas bha.pas ca.pas cha.pas da.pas dda.pas ddha.pas ekara.pas iikara.pas ikara.pas ikawi.pas ja.pas jha.pas jnya.pas ka.pas la.pas ma.pas na.pas ngalelet.pas ngaleletras.pas nya.pas okara.pas pacerek.pas pha.pas qa.pas sa.pas ssa.pas ta.pas tha.pas tta.pas ttha.pas ukara.pas wa.pas\012";
 name = class25;
 },
 {
@@ -595,6 +592,10 @@ name = "Has WWS Names";
 value = 1;
 },
 {
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = description;
 value = "Designed by Monotype design team.";
 },
@@ -617,10 +618,6 @@ value = GOOG;
 {
 name = versionString;
 value = "Version 2.004";
-},
-{
-name = "Use Typo Metrics";
-value = 1;
 },
 {
 name = Axes;
@@ -939,7 +936,7 @@ nodes = (
 width = 600;
 }
 );
-note = .notdef;
+note = ".notdef";
 category = Letter;
 },
 {
@@ -955,7 +952,7 @@ layerId = "791C41F8-8E37-43C9-BD6C-904761E149BF";
 width = 0;
 }
 );
-note = .null;
+note = ".null";
 unicode = 0000;
 category = Letter;
 },
