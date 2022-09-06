@@ -1,6 +1,12 @@
 {
     "tests": [
         {
+            "expectation": "ka=0+1221|u.ns=0@-1,0+0|ma=2+970|pa.pas=2+830|la.pas=2@25,0+0|i.ns=2@49,10+0|ta=8+1183",
+            "input": "ꦏꦸꦩ꧀ꦥ꧀ꦭꦶꦠ",
+            "note": "#3",
+            "only": "NotoSansJavanese-Regular.ttf"
+        },
+        {
             "expectation": "uniA9CB=0+439|ma=1+970|ta=2+1183|u.ns=2@-1,0+0|ra=4+915|sa.pas=4+830|ae.ns=4@52,10+0|ma=8+970|ba.pas=8@-1,0+0|wignyan=8+353|na=12+989|u.ns=12+0|wa=14+967|u.ns=14@-1,0+0|na=16+989|pangkon=16+391|uniA9C9=18+687",
             "input": "꧋ꦩꦠꦸꦫ꧀ꦱꦼꦩ꧀ꦧꦃꦤꦸꦮꦸꦤ꧀꧉",
             "note": "fontdiff-javanese-765.html",
