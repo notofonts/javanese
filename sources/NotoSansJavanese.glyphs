@@ -1,5 +1,5 @@
 {
-.appVersion = "3109";
+.appVersion = "3202";
 classes = (
 {
 code = "cakra.ns ka.pas_cakra.ns qa.pas_cakra.ns ta.pas_cakra.ns da.pas_cakra.ns la.pas_cakra.ns";
@@ -19377,7 +19377,7 @@ subCategory = Nonspacing;
 },
 {
 glyphname = uu.ns.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-04-27 13:05:59 +0000";
 layers = (
 {
 anchors = (
@@ -61482,10 +61482,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ka.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -680}";
+},
 {
 name = Anchor35;
 position = "{-446, -537}";
@@ -61586,6 +61590,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -680}";
+},
 {
 name = Anchor35;
 position = "{-544, -537}";
@@ -61691,10 +61699,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = qa.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -815}";
+},
 {
 name = _Anchor25;
 position = "{-49, 0}";
@@ -61803,6 +61815,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -850}";
+},
 {
 name = _Anchor25;
 position = "{-49, 0}";
@@ -61916,10 +61932,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = kha.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -540}";
+},
 {
 name = Anchor31;
 position = "{-105, -537}";
@@ -62038,6 +62058,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -547}";
+},
 {
 name = Anchor31;
 position = "{-229, -537}";
@@ -62161,10 +62185,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ga.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -62238,6 +62266,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -62316,10 +62348,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = gha.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{98, -537}";
@@ -62430,6 +62466,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -62545,10 +62585,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = nga.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -62649,6 +62693,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -62754,10 +62802,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ca.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = _Anchor25;
 position = "{-49, 0}";
@@ -62859,6 +62911,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = _Anchor25;
 position = "{-49, 0}";
@@ -62965,10 +63021,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = cha.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor35;
 position = "{-453, -830}";
@@ -63271,6 +63331,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor35;
 position = "{-453, -830}";
@@ -63578,10 +63642,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ja.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -534}";
+},
 {
 name = _Anchor25;
 position = "{-249, 0}";
@@ -63641,6 +63709,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -534}";
+},
 {
 name = _Anchor25;
 position = "{-249, 0}";
@@ -63705,10 +63777,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = jnya.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -815}";
+},
 {
 name = _Anchor25;
 position = "{-249, 0}";
@@ -63780,6 +63856,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -850}";
+},
 {
 name = _Anchor25;
 position = "{-249, 0}";
@@ -64128,10 +64208,14 @@ category = Letter;
 },
 {
 glyphname = nya.pas.var;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{139, -537}";
@@ -64262,6 +64346,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{183, -537}";
@@ -64397,10 +64485,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = tta.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -821}";
+},
 {
 name = Anchor35;
 position = "{-419, -830}";
@@ -64494,6 +64586,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -834}";
+},
 {
 name = Anchor35;
 position = "{-390, -830}";
@@ -64592,10 +64688,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ttha.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -819}";
+},
 {
 name = Anchor35;
 position = "{-392, -830}";
@@ -64674,6 +64774,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -826}";
+},
 {
 name = Anchor35;
 position = "{-408, -830}";
@@ -64757,10 +64861,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = dda.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor35;
 position = "{-395, -830}";
@@ -64841,6 +64949,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor35;
 position = "{-414, -830}";
@@ -64926,13 +65038,17 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ddha.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
 {
+name = Anchor25;
+position = "{0, -537}";
+},
+{
 name = Anchor31;
-position = "{-49, -537}";
+position = "{-123, -595}";
 },
 {
 name = Anchor33;
@@ -65019,8 +65135,12 @@ width = 0;
 {
 anchors = (
 {
+name = Anchor25;
+position = "{0, -537}";
+},
+{
 name = Anchor31;
-position = "{-49, -537}";
+position = "{-126, -536}";
 },
 {
 name = Anchor33;
@@ -65111,10 +65231,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = nna.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -65207,6 +65331,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -65304,10 +65432,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ta.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -680}";
+},
 {
 name = Anchor35;
 position = "{-455, -537}";
@@ -65409,6 +65541,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -680}";
+},
 {
 name = Anchor35;
 position = "{-529, -537}";
@@ -65515,10 +65651,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = tha.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -826}";
+},
 {
 name = Anchor35;
 position = "{-272, -830}";
@@ -65624,6 +65764,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -829}";
+},
 {
 name = Anchor35;
 position = "{-279, -830}";
@@ -65734,10 +65878,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = da.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -825}";
+},
 {
 name = Anchor35;
 position = "{-359, -830}";
@@ -65802,6 +65950,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -825}";
+},
 {
 name = Anchor35;
 position = "{-370, -830}";
@@ -65871,10 +66023,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = dha.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -65958,6 +66114,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -66046,10 +66206,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = na.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor35;
 position = "{-297, -830}";
@@ -66112,6 +66276,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor35;
 position = "{-310, -830}";
@@ -66555,10 +66723,14 @@ category = Letter;
 },
 {
 glyphname = ba.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -66652,6 +66824,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -547}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -66750,10 +66926,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = bha.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -538}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -66842,6 +67022,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -538}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -66934,10 +67118,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ma.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -826}";
+},
 {
 name = Anchor35;
 position = "{-358, -830}";
@@ -67022,6 +67210,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -826}";
+},
 {
 name = Anchor35;
 position = "{-346, -830}";
@@ -67111,10 +67303,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ya.pas;
-lastChange = "2022-04-22 08:33:58 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -67216,6 +67412,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -67322,10 +67522,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ra.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -538}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -67401,6 +67605,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -538}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -67481,10 +67689,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = raagung.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -67621,6 +67833,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-27, -537}";
@@ -67762,10 +67978,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = la.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -680}";
+},
 {
 name = Anchor35;
 position = "{-319, -537}";
@@ -67836,6 +68056,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -680}";
+},
 {
 name = Anchor35;
 position = "{-575, -537}";
@@ -67911,10 +68135,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = la.pas1;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = _Anchor35;
 position = "{-499, -537}";
@@ -67977,6 +68205,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = _Anchor35;
 position = "{-499, -537}";
@@ -68044,10 +68276,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = wa.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -826}";
+},
 {
 name = Anchor35;
 position = "{-272, -830}";
@@ -68115,6 +68351,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -829}";
+},
 {
 name = Anchor35;
 position = "{-279, -830}";
@@ -68187,10 +68427,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = wa.pas1;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = _Anchor25;
 position = "{-49, -537}";
@@ -68248,6 +68492,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -829}";
+},
 {
 name = _Anchor25;
 position = "{-49, -540}";
@@ -68310,10 +68558,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = sha.pas;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -68415,6 +68667,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -68915,10 +69171,14 @@ category = Letter;
 },
 {
 glyphname = ssa.pas.var;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -829}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -68988,6 +69248,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -829}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -69244,10 +69508,14 @@ category = Letter;
 },
 {
 glyphname = ka.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -69358,6 +69626,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -547}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -69473,10 +69745,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = qa.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -815}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -69595,6 +69871,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -850}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -69718,10 +69998,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ca.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:33 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -69830,6 +70114,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -74135,10 +74423,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ja.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -74204,6 +74496,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -75464,10 +75760,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = jnya.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -815}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -75545,6 +75845,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -850}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -76939,13 +77243,13 @@ subCategory = Nonspacing;
 },
 {
 glyphname = jha.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor25;
-position = "{390, 0}";
+position = "{439, -829}";
 }
 );
 layerId = "BA48FBA0-A6DA-4EAF-9284-46C574130433";
@@ -77016,7 +77320,7 @@ width = 439;
 anchors = (
 {
 name = Anchor25;
-position = "{416, 0}";
+position = "{465, -819}";
 }
 );
 layerId = "791C41F8-8E37-43C9-BD6C-904761E149BF";
@@ -77089,13 +77393,13 @@ category = Letter;
 },
 {
 glyphname = jha.pas.alt1;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor25;
-position = "{390, -537}";
+position = "{439, -551}";
 }
 );
 layerId = "BA48FBA0-A6DA-4EAF-9284-46C574130433";
@@ -77166,7 +77470,7 @@ width = 439;
 anchors = (
 {
 name = Anchor25;
-position = "{417, -537}";
+position = "{465, -575}";
 }
 );
 layerId = "791C41F8-8E37-43C9-BD6C-904761E149BF";
@@ -77697,13 +78001,13 @@ category = Letter;
 },
 {
 glyphname = nya.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor25;
-position = "{327, 0}";
+position = "{376, -830}";
 }
 );
 layerId = "BA48FBA0-A6DA-4EAF-9284-46C574130433";
@@ -77775,7 +78079,7 @@ width = 376;
 anchors = (
 {
 name = Anchor25;
-position = "{415, 0}";
+position = "{464, -830}";
 }
 );
 layerId = "791C41F8-8E37-43C9-BD6C-904761E149BF";
@@ -77849,13 +78153,13 @@ category = Letter;
 },
 {
 glyphname = nya.pas.alt1;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor25;
-position = "{327, -537}";
+position = "{376, -830}";
 }
 );
 layerId = "BA48FBA0-A6DA-4EAF-9284-46C574130433";
@@ -77927,7 +78231,7 @@ width = 376;
 anchors = (
 {
 name = Anchor25;
-position = "{415, -537}";
+position = "{464, -830}";
 }
 );
 layerId = "791C41F8-8E37-43C9-BD6C-904761E149BF";
@@ -78445,10 +78749,14 @@ category = Letter;
 },
 {
 glyphname = tta.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -821}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -78550,6 +78858,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -834}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -80198,10 +80510,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ttha.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -819}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -80298,6 +80614,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -826}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -81655,10 +81975,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = dda.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -81750,6 +82074,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -83264,10 +83592,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ta.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -83377,6 +83709,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -83491,10 +83827,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = tha.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -826}";
+},
 {
 name = Anchor31;
 position = "{176, -537}";
@@ -83612,6 +83952,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor31;
 position = "{261, -537}";
@@ -86694,10 +87038,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = na.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor31;
 position = "{117, -537}";
@@ -86768,6 +87116,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor31;
 position = "{166, -537}";
@@ -87847,13 +88199,13 @@ subCategory = Nonspacing;
 },
 {
 glyphname = pha.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = Anchor25;
-position = "{1005, 0}";
+position = "{1054, 0}";
 },
 {
 name = Anchor29;
@@ -87956,7 +88308,7 @@ width = 1054;
 anchors = (
 {
 name = Anchor25;
-position = "{1187, 0}";
+position = "{1236, 0}";
 },
 {
 name = Anchor29;
@@ -89599,10 +89951,14 @@ category = Letter;
 },
 {
 glyphname = bha.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -538}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -89687,6 +90043,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -540}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -91094,10 +91454,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = ma.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -826}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -91180,6 +91544,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -92625,10 +92993,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = la.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -92719,6 +93091,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -537}";
+},
 {
 name = Anchor31;
 position = "{-49, -537}";
@@ -92814,10 +93190,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = wa.pas.alt;
-lastChange = "2018-12-13 17:24:08 +0000";
+lastChange = "2023-06-28 08:20:04 +0000";
 layers = (
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -826}";
+},
 {
 name = Anchor31;
 position = "{176, -537}";
@@ -92897,6 +93277,10 @@ width = 0;
 },
 {
 anchors = (
+{
+name = Anchor25;
+position = "{0, -830}";
+},
 {
 name = Anchor31;
 position = "{261, -537}";
