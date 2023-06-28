@@ -617,7 +617,7 @@ value = GOOG;
 },
 {
 name = versionString;
-value = "Version 2.004";
+value = "Version 2.005";
 },
 {
 name = Axes;
@@ -95761,5 +95761,5 @@ manufacturer = "Monotype Imaging Inc.";
 manufacturerURL = "http://www.google.com/get/noto/";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 4;
+versionMinor = 5;
 }
