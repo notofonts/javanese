@@ -677,7 +677,7 @@ code = "lookup ChainedContextualGSUB33 {\012    lookupflag 0;\012    ;\012    # 
 name = ChainedContextualGSUB33;
 },
 {
-code = "languagesystem java dflt;\012";
+code = "languagesystem DFLT dflt;\012languagesystem java dflt;\012";
 name = Languagesystems;
 },
 {
