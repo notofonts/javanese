@@ -703,7 +703,7 @@ code = "lookup CakraPasLigature2 {\012    sub pa.pas_cakra u.ns by pa.pas_cakra_
 name = pres;
 },
 {
-code = "\012# [('java', 'dflt')]\012    lookup ChainedContextualGSUB19;\012\012# Use alternate below marks on all pasangans; see #6\012sub @class79 [u.ns uu.ns keret.ns pengkal]' lookup SingleSubstitution28;\012\012# [('java', 'dflt')]\012    lookup ContextualGSUB20;\012\012# [('java', 'dflt')]\012    lookup ChainedContextualGSUB33;\012\012lookup OmLigature {\012    lookupflag MarkAttachmentType @abovemarks;\012    sub okara panyangga.ns uni25CC tarung by om_javanese;\012    sub okara panyangga.ns tarung by om_javanese;\012    sub okara tarung panyangga.ns by om_javanese;\012} OmLigature;\012";
+code = "\012# [('java', 'dflt')]\012    lookup ChainedContextualGSUB19;\012\012# Use alternate below marks on all pasangans; see #6\012sub @class79 [u.ns uu.ns keret.ns pengkal]' lookup SingleSubstitution28;\012\012# [('java', 'dflt')]\012    lookup ContextualGSUB20;\012\012# [('java', 'dflt')]\012    lookup ChainedContextualGSUB33;\012\012lookup OmLigature {\012    lookupflag MarkAttachmentType @abovemarks;\012    sub okara tarung panyangga.ns by om_javanese;\012} OmLigature;\012";
 name = psts;
 },
 {

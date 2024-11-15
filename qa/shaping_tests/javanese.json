@@ -443,6 +443,18 @@
             "expectation": "pa_cakra=0+1221|cecaktelu.ns_cecak.ns=0@-156,10+0",
             "note": "googlefonts/noto-fonts#2332",
             "only": "NotoSansJavanese-Regular.ttf"
+        },
+        {
+            "input": "ꦎꦴꦀ",
+            "expectation": "om_javanese=0+1367",
+            "note": "googlefonts/javanese#32",
+            "only": "NotoSansJavanese-Regular.ttf"
+        },
+        {
+            "input": "ꦎꦀꦴ",
+            "expectation": "okara=0+967|panyangga.ns=0@15,10+0|uni25CC=0+594|tarung=0+413",
+            "note": "googlefonts/javanese#32",
+            "only": "NotoSansJavanese-Regular.ttf"
         }
     ]
 }
